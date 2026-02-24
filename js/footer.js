@@ -38,12 +38,24 @@ $(document).ready(function () {
 
     public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
     ps_destroy();
+    var href = $(this).attr("href");
+
+    // 只取 # 及后面的部分
+    var hash = href.substring(href.indexOf("#"));
+    if ($(hash).length) {
+      var pos = $(hash).position().top - 30;
+      $("html, body").animate({ scrollTop: pos }, {
+        duration: 500,
+        easing: "swing"
+      });
+    }
+    /* 
     $("html, body").animate({
       scrollTop: $($(this).attr("href")).offset().top - 30
     }, {
       duration: 500,
       easing: "swing"
-    });
+    }); */
   });
   return false;
 });
@@ -57,7 +69,8 @@ $("a.smooth").click(function (e) {
   $(this).parent("li").addClass("active");
   e.preventDefault();
   href = $(this).attr("href");
-  pos = $(href).position().top - 30;
+  var hash = href.substring(href.indexOf("#"));
+  pos = $(hash).position().top - 30;
 });
 (function () {
   if (document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") === '') {
