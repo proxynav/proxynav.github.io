@@ -1,0 +1,9 @@
+[data-airport] {
+    cursor: pointer;
+    transition: transform .15s ease, box-shadow .15s ease;
+}
+
+[data-airport]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(0,0,0,.1);
+}
