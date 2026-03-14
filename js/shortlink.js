@@ -16,7 +16,7 @@
         });
     }
 
-    const API_BASE = "http://proxynav.com/airports-attributes/";
+    const API_BASE = "https://proxynav.com/airports-attributes/";
     //const cache = new Map();
 
     async function fetchAirport(uuid) {
