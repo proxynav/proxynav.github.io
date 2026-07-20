@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://proxynav.com/jichang3/stableproxy.html</loc>
+    
+    <lastmod>2026-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://proxynav.com/jichang4/feitianzhu.html</loc>
     
     <lastmod>2026-04-14</lastmod>
@@ -524,15 +533,6 @@
   </url>
   
   <url>
-    <loc>https://proxynav.com/jichang3/stableproxy.html</loc>
-    
-    <lastmod>2026-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://proxynav.com/jichang3/m78cloud.html</loc>
     
     <lastmod>2026-03-14</lastmod>
@@ -571,7 +571,7 @@
 
   <url>
     <loc>https://proxynav.com/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
