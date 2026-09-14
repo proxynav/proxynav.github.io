@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://proxynav.com/proxy-client/v2rayn-on-windows.html</loc>
+    
+    <lastmod>2026-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxynav.com/proxy-client/shadowrocket-install-and-configure.html</loc>
+    
+    <lastmod>2026-09-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxynav.com/jichang1/FlyingBird.html</loc>
+    
+    <lastmod>2026-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxynav.com/jichang1/CMYNetwork.html</loc>
+    
+    <lastmod>2026-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxynav.com/jichang2/CyberGuard.html</loc>
+    
+    <lastmod>2026-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://proxynav.com/jichang3/stableproxy.html</loc>
     
     <lastmod>2026-07-20</lastmod>
@@ -200,15 +245,6 @@
   </url>
   
   <url>
-    <loc>https://proxynav.com/jichang2/CyberGuard.html</loc>
-    
-    <lastmod>2026-04-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://proxynav.com/jichang2/baigeiyun.html</loc>
     
     <lastmod>2026-04-10</lastmod>
@@ -272,25 +308,7 @@
   </url>
   
   <url>
-    <loc>https://proxynav.com/jichang1/FlyingBird.html</loc>
-    
-    <lastmod>2026-04-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://proxynav.com/jichang1/cokecloud.html</loc>
-    
-    <lastmod>2026-04-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxynav.com/jichang1/CMYNetwork.html</loc>
     
     <lastmod>2026-04-10</lastmod>
     
@@ -571,7 +589,7 @@
 
   <url>
     <loc>https://proxynav.com/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
